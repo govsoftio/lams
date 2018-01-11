@@ -1,2 +1,2 @@
 # lams
-Law Agency Management System
+Law Enforcement Management System
