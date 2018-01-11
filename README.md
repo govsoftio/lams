@@ -1,2 +1,2 @@
-# lams
+# lems
 Law Enforcement Management System
